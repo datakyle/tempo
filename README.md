@@ -1,15 +1,12 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="brand/logo-dark.svg">
-    <img src="brand/logo.svg" alt="tempo / focus instrument" width="440">
-  </picture>
-</p>
+<p align="center"><img src="logo.svg" alt="tempo logo" width="132" height="132"></p>
 
-<p align="center"><b>Best with</b> one person · a phone, tablet, or laptop · 25 minutes at a time</p>
+# tempo
 
-<p align="center"><a href="https://datakyle.github.io/tempo/"><b>Open tempo →</b></a></p>
+**Best with:** one person · a phone, tablet, or laptop · 25 minutes at a time
 
 A retro, LCD-style Pomodoro timer that looks like a little desk instrument. Runs in any browser and installs to your iPhone or iPad Home Screen like a real app.
+
+### [Open tempo → datakyle.github.io/tempo](https://datakyle.github.io/tempo/)
 
 <p align="center">
   <img src="screenshots/iphone.png" alt="tempo on iPhone" height="420">
@@ -50,8 +47,18 @@ It's one HTML file. Open `index.html` in a browser, or host the folder on any st
 ## Notes
 
 - iOS pauses web pages in the background, so the chime plays when you return to the app, not while it's closed.
-- Logo and icons live in `brand/` and `icons/`.
 
 ---
 
-Made by Kyle Bautista
+<p align="center">
+  <a href="https://github.com/datakyle">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="brand/k-dark.svg">
+      <img src="brand/k.svg" alt="K" width="29" height="26">
+    </picture>
+  </a>
+</p>
+
+<p align="center">Built by <a href="https://github.com/datakyle">Kyle</a> · <a href="https://kylebautista.com">kylebautista.com</a><br>Little games and tools that get people back to what matters.</p>
+
+<p align="center"><sub>Also made: <a href="https://datakyle.github.io/miniracer/">Daily lap</a> · <a href="https://github.com/datakyle/life-cal">Life in Weeks</a> · <a href="https://github.com/datakyle/5-in-3">Name 3 in 5</a></sub></p>
